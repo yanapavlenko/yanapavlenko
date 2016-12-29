@@ -1,0 +1,103 @@
+#wrapper {
+	width: 1440px; 
+	
+}
+#header {
+	height: 452px;
+	background: url(../images/header_bg.png) no-repeat;
+	background-color:black;
+}
+#header ul li{
+	color: #ffffff;
+	overflow: hidden;
+	text-align: center;
+}
+#header ul li.firsttitle {
+	font: normal 50px Segoe Script;
+	line-height: 3.6;
+}
+#header ul li.secondtitle {
+	font: lighter 66px Perpetua Titling MT;
+}
+#header ul li.thirdtitle {
+	font: normal 30px Raavi;
+	line-height: 3;
+}
+#singup {
+	margin: -58px auto;
+	width: 372px;
+	height: 76px;
+	background: url(../images/singup_bg.png) no-repeat;
+}
+#singup ul  {
+	text-align: center;
+	padding: 26px;
+}
+#singup ul a{
+	font: normal 20.7px Open Sans;
+	color:#ffffff;
+	text-decoration: none;
+}
+#content ul{
+	font: normal 36px Euphemia;
+	color: #898989;
+	text-align: center;
+	line-height: 5;
+}
+#product-main{
+	overflow:hidden; 
+	margin: -58px 90.5px 81px;
+}
+#product{
+	position:relative; 
+	width: 294px; 
+	float:left; 
+	margin: 0 20px 20px 0;
+}
+#freeapp {
+	height: 112px;
+	background-color: #ff6c14;
+}
+#freeapp ul li{ 
+	float:left;
+	margin-top:48px;
+	margin-left: 493px;
+	overflow:hidden; 
+	color: #ffffff;
+	font: lighter 23px Californian FB;
+}
+#freeapp ul li span{
+	color: #ffc4a1;
+}
+#freeapp ul li.arrow{
+	margin-left: 22px;
+	margin-top:38px;
+
+	
+}
+#footer{
+	margin: -16px auto;
+	background-color: #211f20;
+	height: 112px;
+}
+#footer ul{
+	margin-left:250px;
+}
+#footer ul li {
+	float:left;
+	margin-top: 50px;
+	color: #ffffff;
+	overflow: hidden;
+	text-align: center;
+	font: normal 16px Segoe UI;	
+	margin-right: 20px;
+}
+#footer ul.socicon li{
+	margin-top: 35px;
+	margin-right:26px;
+}
+#footer ul li.fb {
+	margin-left:360px;
+	
+}
+
